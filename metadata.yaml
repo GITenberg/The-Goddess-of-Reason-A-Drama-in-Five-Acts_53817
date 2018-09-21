@@ -1,0 +1,25 @@
+_repo: The-Goddess-of-Reason-A-Drama-in-Five-Acts_53817
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnston, Mary
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '695'
+    url: http://www.gutenberg.org/2009/agents/695
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
+description: ''
+gutenberg_issued: '2016-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'The Goddess of Reason: A Drama in Five Acts'
+url: http://www.gutenberg.org/ebooks/53817
